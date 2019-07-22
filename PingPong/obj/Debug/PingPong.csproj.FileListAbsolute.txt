@@ -1,0 +1,10 @@
+D:\GitHub\PingPong\PingPong\bin\Debug\PingPong.exe.config
+D:\GitHub\PingPong\PingPong\bin\Debug\PingPong.exe
+D:\GitHub\PingPong\PingPong\bin\Debug\PingPong.pdb
+D:\GitHub\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+D:\GitHub\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+D:\GitHub\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+D:\GitHub\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+D:\GitHub\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+D:\GitHub\PingPong\PingPong\obj\Debug\PingPong.exe
+D:\GitHub\PingPong\PingPong\obj\Debug\PingPong.pdb
